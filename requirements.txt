@@ -1,0 +1,14 @@
+langchain_openai 
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+langserve
+fastapi
+uvicorn
+sse_starlette
+bs4
+pypdf
+chromadb
+sentence_transformers
+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
